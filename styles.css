@@ -1,6 +1,6 @@
 .container {
     display: flex;
-    border: 15px solid black;
+    border: 15px solid red;
     justify-content: flex-start;
    width: 190px;
     padding: 20px;
