@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    border: 15px solid black;
+    justify-content: flex-start;
+   width: 190px;
+    padding: 20px;
+
+}
+
+.box {
+    display: flex;
+    border: 15px solid black;
+    justify-content: flex-start;
+   width: 190px;
+    padding: 20px;
+
+}
+
+.miraculous {
+    display: flex;
+    border: 15px solid black;
+    justify-content: flex-start;
+    width: 190px;
+    padding: 20px;
+}
